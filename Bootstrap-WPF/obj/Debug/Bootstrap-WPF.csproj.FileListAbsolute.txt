@@ -1,0 +1,12 @@
+D:\MySpace\bootstrap-wpf-style\Bootstrap-WPF\obj\Debug\Bootstrap-WPF.csprojResolveAssemblyReference.cache
+D:\MySpace\bootstrap-wpf-style\Bootstrap-WPF\bin\Debug\Bootstrap-WPF.dll
+D:\MySpace\bootstrap-wpf-style\Bootstrap-WPF\bin\Debug\Bootstrap-WPF.pdb
+D:\MySpace\bootstrap-wpf-style\Bootstrap-WPF\obj\Debug\Bootstrap-WPF.dll
+D:\MySpace\bootstrap-wpf-style\Bootstrap-WPF\obj\Debug\Bootstrap-WPF.pdb
+D:\MySpace\bootstrap-wpf-style\Bootstrap-WPF\obj\Debug\Bootstrap-WPF.g.resources
+D:\MySpace\Bootstrap-WPF\Bootstrap-WPF\bin\Debug\Bootstrap-WPF.dll
+D:\MySpace\Bootstrap-WPF\Bootstrap-WPF\bin\Debug\Bootstrap-WPF.pdb
+D:\MySpace\Bootstrap-WPF\Bootstrap-WPF\obj\Debug\Bootstrap-WPF.csprojResolveAssemblyReference.cache
+D:\MySpace\Bootstrap-WPF\Bootstrap-WPF\obj\Debug\Bootstrap-WPF.g.resources
+D:\MySpace\Bootstrap-WPF\Bootstrap-WPF\obj\Debug\Bootstrap-WPF.dll
+D:\MySpace\Bootstrap-WPF\Bootstrap-WPF\obj\Debug\Bootstrap-WPF.pdb
